@@ -6,7 +6,8 @@
 - Included 1-click CSV export of recorded logs and built portable executable via PyInstaller and OX Alpha AI.
 - [Download](https://drive.google.com/file/d/1Ii7M68Jku2SX1LXInAdeecvii4lGvCcD/view?usp=sharing)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab6e366c-4ab8-4635-8ad7-501602124684" />
-# About
+---
+## About
 <img width="1920" height="1080" alt="8d9af8a2-36ed-4157-869d-59c62153e214" src="https://github.com/user-attachments/assets/a91f580e-ad5d-4942-829b-e4b391f9d19d" />
 <img width="1920" height="1080" alt="89c3edf3-6f5c-4d00-b971-8e98a981ca2c" src="https://github.com/user-attachments/assets/d1fc6479-16a0-439f-83b4-9537f47eb559" />
 <img width="1920" height="1080" alt="367c8e0a-3841-4c3b-b82b-d54f43cbd9fa" src="https://github.com/user-attachments/assets/abadbb80-5009-45c8-91a9-6365f87e4133" />
@@ -16,5 +17,6 @@
 <img width="1920" height="1080" alt="af75eaf6-4d7c-431a-bd15-af59025678a1" src="https://github.com/user-attachments/assets/988885e9-ca18-4f02-ad5d-b01ccd9cf571" />
 <img width="1920" height="1080" alt="c6f5980e-2677-483c-b290-325408378587" src="https://github.com/user-attachments/assets/2714da17-5b4c-4b49-ab76-36cf9f37ef78" />
 <img width="1920" height="1080" alt="ec98ec3d-c2c3-4a9b-94a0-07dffa1c429c" src="https://github.com/user-attachments/assets/e11ed1d5-762b-42f2-98cc-55205cf3561b" />
-# Data collected through this then can be used for analysis lik -
+---
+### Data collected through this then can be used for analysis lik -
 <img width="1901" height="971" alt="Screenshot 2026-08-26 224758" src="https://github.com/user-attachments/assets/ecb24d18-33eb-4b9e-aa59-78b3fc24f567" />
