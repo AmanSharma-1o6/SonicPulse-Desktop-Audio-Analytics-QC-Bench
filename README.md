@@ -20,5 +20,5 @@
 <img width="1162" height="654" alt="image" src="https://github.com/user-attachments/assets/6f3b9ec7-2d63-4489-8606-d0c525e0a757" />
 
 ### Data collected through this then can be used for analysis like -
-
+---
 <img width="1901" height="971" alt="Screenshot 2026-08-26 224758" src="https://github.com/user-attachments/assets/ecb24d18-33eb-4b9e-aa59-78b3fc24f567" />
